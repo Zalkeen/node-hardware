@@ -1,5 +1,7 @@
 # Zalkeen Node Hardware
 
+Node hardware
+
 
 ## Cluster
 
@@ -14,13 +16,13 @@
 
 **v2**
 
-Based on `NAS case, BanaNAS` [by snowivis](https://www.thingiverse.com/thing:2676179)
-licensed under the GNU - GPLv3 license
+Based on [NAS case, BanaNAS by snowivis](https://www.thingiverse.com/thing:2676179)
+licensed under the GPLv3 license
 
 **v1**
 
-Based on `BanaNAS - SimpleNAS - Case for Banana Pi` [by cyryllois](https://www.thingiverse.com/thing:460603)
-licensed under the Creative Commons - Attribution - Share Alike license
+Based on [BanaNAS - SimpleNAS - Case for Banana Pi by cyryllois](https://www.thingiverse.com/thing:460603)
+licensed under the CC-BY-SA license
 
 
 ## Mini Node
