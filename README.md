@@ -8,6 +8,11 @@ Node hardware
 ![](images/cluster-v2.jpg)
 
 
+## Node Macro
+
+![](images/node-macro.jpg)
+
+
 ## Node
 
 ![](images/node-v2.jpg)
@@ -25,7 +30,7 @@ Based on [BanaNAS - SimpleNAS - Case for Banana Pi by cyryllois](https://www.thi
 licensed under the CC-BY-SA license
 
 
-## Mini Node
+## Node Mini
 
 ![](images/node-mini.jpg)
 
